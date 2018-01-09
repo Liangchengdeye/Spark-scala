@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: org.scala-lang:scala-library:${scala.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/${scala.version}/scala-library-${scala.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/${scala.version}/scala-library-${scala.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/${scala.version}/scala-library-${scala.version}-sources.jar!/" />
+      <root url="file://D:/spark/spark-1.6.3-bin-hadoop2.6/examples/src/main/java" />
+      <root url="file://D:/spark/spark-1.6.3-bin-hadoop2.6/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/spark/spark-1.6.3-bin-hadoop2.6/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
